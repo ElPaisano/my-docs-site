@@ -1,34 +1,27 @@
 [[main]]
   name = "Basics"
-  url = "/basics/install/windows/"
+  url = "/basics/introduction/"
   weight = 1
 
 [[main]]
-  name = "Support"
-  weight = 30
-  identifier = "dropdown"
-  url = "/"
-
-    [[main]]
-      name = "Contact"
-      weight = 40
-      identifier = "dropdown-first-item"
-      url = "/contact"
-      parent = "dropdown"
-
-    [[main]]
-      name = "Slack channel"
-      weight = 50
-      identifier = "dropdown-second-item"
-      url = "https://example.com"
-      parent = "dropdown"
+  name = "Reference"
+  url = "/reference/introduction/"
+  weight = 2
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 20
+  name = "How-To"
+  url = "/basics/introduction/"
+  weight = 3
 
+[[main]]
+  name = "Tutorials"
+  url = "/tutorial/introduction/"
+  weight = 4
 
+[[main]]
+  name = "Community"
+  url = "/community/introduction/"
+  weight = 5
 
 [[social]]
   name = "GitHub"

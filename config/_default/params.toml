@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Docs Website"
+title = "IPFS Docs"
 titleSeparator = "-"
-titleAddition = "A simple documentation platform."
-description = "This documentation platform helps teams write, build, and deploy a simple documentation site that's easy for users to navigate."
+titleAddition = "Interplanetary File System user documentation"
+description = "Interplanetary File System user documentation"
 
 ## Documentation
 # docsVersion = "0.3"

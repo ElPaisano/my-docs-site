@@ -1,6 +1,6 @@
 [[main]]
   name = "Basics"
-  url = "/basics/introduction/"
+  url = "/basics/introduction/overview"
   weight = 1
 
 [[main]]

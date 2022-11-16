@@ -15,29 +15,27 @@ The Interplanetary File System (IPFS) is an open-source, decentralized, distribu
 
 New to IPFS and wondering how to get started? 
 
-For a high-level description of the concepts, techncologies, motivation, and community behind IPFS, see the [overview]({{< relref "basics/introduction/overview/index.md" >}}) page. 
+- To learn about the concepts, techncologies, motivation, and community behind IPFS, see the [overview]({{< relref "basics/introduction/overview/index.md" >}}) page. 
 
-To quickly get started with IPFS implementations like Kubo and tools like IPFS Desktop,
-check out the quickstarts guides:
+- To quickly get started with IPFS implementations and tools,
+check out the Quickstarts:
 
-- [Kubo]({{< relref "basics/get-started/kubo/index.md" >}})
-- [js-ipfs]({{< relref "basics/get-started/js-ipfs/index.md" >}})
-- [Iohro]({{< relref "basics/get-started/iohro/index.md" >}})
-- [IPFS Desktop]({{< relref "basics/get-started/ipfs-desktop/index.md" >}})
+    - [Kubo]({{< relref "basics/get-started/kubo/index.md" >}})
+    - [js-ipfs]({{< relref "basics/get-started/js-ipfs/index.md" >}})
+    - [Iohro]({{< relref "basics/get-started/iohro/index.md" >}})
+    - [IPFS Desktop]({{< relref "basics/get-started/ipfs-desktop/index.md" >}})
 
 ## Develop Applications on IPFS
 
-I can has cheezburger?
+Familiar with IPFS fundamentals and looking to develop an application on IPFS?
 
-Wen moon?
-
-Murreee hah uh lil lamB!
-LIL lamb?
-liTTle lambo.
+- Check out the [Tutorials]({{< relref "tutorial/introduction" >}}) section, where you'll learn how to create a simple chat app, deploy a website on IPFS, `<some-other-cool-thing-here>`, and much more! Categories include everything from _NFTs_ to _Web Applications_.
+- Interact with IPFS using standard HTTP with the [HTTP Gateway API]({{< relref "how-to/introduction/" >}}).
+- Already developing with an implementation like Kubo or js-ipfs? Find implementation-specific information on configuration, best practices, CLI commands, and troubleshooting in the [Reference]({{< relref "reference/introduction/" >}}).
+- Learn [how to perform various actions, like adding a file, configuring your a node profile, or modifying the node bootstrap list]({{< relref "how-to/introduction/" >}}) using the various implementations and tools in the IPFS ecosystem.
 
 ## Implement the protocol
 
-[Oh no! I'm a bad link :(](https://en.super-fake-wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests#Flesch%E2%80%93Kincaid_grade_le)
 
 ## Get Involved in the community
 

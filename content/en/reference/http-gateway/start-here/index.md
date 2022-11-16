@@ -1,5 +1,5 @@
 ---
-title: "Kubo"
+title: "Start here"
 description: ""
 lead: ""
 date: 2022-01-25T14:41:39+01:00
@@ -8,10 +8,10 @@ draft: false
 images: []
 type: docs
 menu:
-  basics:
+  reference:
     parent: "lorem"
-    identifier: "kubo-78c222fef25ba737d8354c2ddabe414e"
-weight: 2
+    identifier: "start-here-aaa5d010bfb259ba6ecef70cc985725f"
+weight: 100
 toc: true
 ---
 

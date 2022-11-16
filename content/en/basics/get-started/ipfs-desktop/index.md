@@ -11,7 +11,7 @@ menu:
   basics:
     parent: "lorem"
     identifier: "ipfs-desktop-7561249df24d7773f9cdb4d8642b0193"
-weight: 100
+weight: 2
 toc: true
 ---
 

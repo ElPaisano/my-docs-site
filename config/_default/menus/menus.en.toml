@@ -5,12 +5,12 @@
 
 [[main]]
   name = "Reference"
-  url = "/reference/introduction/"
+  url = "/reference/introduction"
   weight = 2
 
 [[main]]
   name = "How-To"
-  url = "/basics/introduction/"
+  url = "/how-to/introduction/"
   weight = 3
 
 [[main]]

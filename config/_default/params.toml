@@ -3,8 +3,8 @@
 ## Homepage
 title = "IPFS Docs"
 titleSeparator = "-"
-titleAddition = "Interplanetary File System user documentation"
-description = "Interplanetary File System user documentation"
+titleAddition = "InterPlanetary File System user documentation"
+description = "InterPlanetary File System user documentation"
 
 ## Documentation
 # docsVersion = "0.3"
